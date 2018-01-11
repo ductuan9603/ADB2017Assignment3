@@ -1,0 +1,12 @@
+db.catalog.insert( 
+               {
+                "CD": { 
+                     title : "Hide your heart", 
+                     artist: "Bonnie Tyler", 
+                    country: "UK", 
+                    company: "CBS Records", 
+                      price: 9.90, 
+                       year: 1988 
+                  }
+                 }  
+) 
