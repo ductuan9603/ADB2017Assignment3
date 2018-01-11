@@ -1,3 +1,3 @@
 # ADB2017Assignment3
-#Type your name here
-#Other info
+#Phung Duc Tuan
+#USTH BI5-145
